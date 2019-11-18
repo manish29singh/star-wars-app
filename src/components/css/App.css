@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+
+.login-container {
+  width: 200px;
+  margin: 0 auto;
+}
+
+.error-text {
+  color: red;
+}
+
+.logout {
+  cursor: pointer;
+}
+
+.search-reasult {
+  display: flex;
+}
+
+.search-list {
+ width: 50%;
+ height: fit-content;
+}

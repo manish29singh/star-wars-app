@@ -5,7 +5,7 @@ export default function SearchList(props) {
     <div className="search-list mr-3">
       {props.planets.map(planet => (
         <div
-          className="card m-3"
+          className="card m-3 search-item"
           key={planet.name}
           onClick={() => props.onSelect(planet.name)}
         >

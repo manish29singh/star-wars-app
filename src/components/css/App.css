@@ -23,3 +23,7 @@
  width: 50%;
  height: fit-content;
 }
+
+.search-item {
+  cursor: pointer;
+}
